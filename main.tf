@@ -1,7 +1,7 @@
 provider "aws" {
     access_key = "AKIAW5IZRWOYYMO4M2EZ"
     secret_key = "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"
-    region =  "us-east-1"
+    
 }
 
 module "myres" {
